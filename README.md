@@ -1,18 +1,19 @@
-# North Prime Financial - Premium Wealth Site
+# North Prime Financial - Final V2
 
-Site estático pronto para Vercel.
+Arquivos prontos para Vercel/Netlify/Cloudflare Pages.
 
-## Arquivos
+## Upload no GitHub
+Suba todos os arquivos e a pasta `assets` na raiz do repositório:
 - index.html
 - styles.css
 - script.js
-- assets/logo-header.svg
-- assets/logo-footer.svg
-- assets/favicon.svg
-- assets/executive-office.svg
-- assets/private-office.svg
+- assets/
+- README.md
 
-## Publicar na Vercel
-Framework Preset: Other / Static
-Build Command: deixe em branco
-Output Directory: deixe em branco ou use `./`
+## Vercel
+Framework Preset: Other
+Build Command: deixe vazio
+Output Directory: deixe vazio ou `./`
+
+WhatsApp: +1 754-256-9902
+E-mail: info@northprimefinancial.com
